@@ -1,6 +1,6 @@
 # rust-tokio-async-in-sync
 
-Runs async code parralel in sync function and gets the result.
+Runs async code parrallel in sync function and gets the result.
 ```
 \rusttest> cargo run --release
     Finished release [optimized] target(s) in 0.01s
