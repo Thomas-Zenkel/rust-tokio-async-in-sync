@@ -1,5 +1,5 @@
 # rust-tokio-async-in-sync
-\rusttest> cargo run --release
+#\rusttest> cargo run --release
     Finished release [optimized] target(s) in 0.01s
      Running `target\release\rusttest.exe`
 [src\main.rs:16] &start.elapsed() = 6.3µs
